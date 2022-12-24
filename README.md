@@ -1,1 +1,1 @@
-# funini.xyz
+funini.xyz
